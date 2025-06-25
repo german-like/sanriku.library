@@ -6,6 +6,11 @@ h1 {
   border-left:6px solid #095;
   padding-left:8px;
 }
+h2 {
+  border-right:1px solid #aaa;
+  border-down:1px solid #aaa;
+  padding-left:8px;
+}
 .side { 
     background-color:#dfe;
     width:150px; 
